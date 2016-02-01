@@ -1,2 +1,4 @@
 File 1 Added
 Change 2 
+Bug 2 fixed
+
