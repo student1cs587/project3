@@ -2,3 +2,5 @@ New feature added
 
 Bug 123 fixed
 Change again
+
+Bug Fixed
