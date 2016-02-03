@@ -2,3 +2,4 @@ New feature added:wq
 
 567 added
 XYZ fixed
+Bug 6 resolved
